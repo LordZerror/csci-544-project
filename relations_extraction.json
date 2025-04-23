@@ -1,0 +1,1234 @@
+{
+  "relations": [
+    {
+      "head": "David J Klein",
+      "relation": "affiliation",
+      "tail": "Conservation Metrics, Inc."
+    },
+    {
+      "head": "Matthe w Mck own",
+      "relation": "affiliation",
+      "tail": "Conser vation Me trics, Inc."
+    },
+    {
+      "head": "Bernie T ershy",
+      "relation": "affiliation",
+      "tail": "Univ ersity of Calif ornia, Sant a Cruz"
+    },
+    {
+      "head": "David J. Klein",
+      "relation": "co-author",
+      "tail": "Matthew W. McKown"
+    },
+    {
+      "head": "David J. Klein",
+      "relation": "co-author",
+      "tail": "Bernie R. Tershy"
+    },
+    {
+      "head": "Matthew W. McKown",
+      "relation": "co-author",
+      "tail": "Bernie R. Tershy"
+    },
+    {
+      "head": "w.mckown",
+      "relation": "affiliation",
+      "tail": "conservationmetrics.com"
+    },
+    {
+      "head": "bernie.tershy",
+      "relation": "affiliation",
+      "tail": "conservationmetrics.com"
+    },
+    {
+      "head": "New York City",
+      "relation": "LOCATED_IN",
+      "tail": "NY"
+    },
+    {
+      "head": "Spark",
+      "relation": "owned by",
+      "tail": "data center"
+    },
+    {
+      "head": "Amazon Web Services",
+      "relation": "is a",
+      "tail": "Third-party data centers"
+    },
+    {
+      "head": "ML",
+      "relation": "such as",
+      "tail": "DL"
+    },
+    {
+      "head": "deep learning",
+      "relation": "abbreviation",
+      "tail": "DL"
+    },
+    {
+      "head": "t-SNE",
+      "relation": "used for",
+      "tail": "data clustering techniques"
+    },
+    {
+      "head": "Deep Learning",
+      "relation": "abbreviation",
+      "tail": "DL"
+    },
+    {
+      "head": "DL",
+      "relation": "grew out of",
+      "tail": "representation learning"
+    },
+    {
+      "head": "DL",
+      "relation": "grew out of",
+      "tail": "neural networks"
+    },
+    {
+      "head": "DL",
+      "relation": "grew out of",
+      "tail": "computational neuroscience"
+    },
+    {
+      "head": "AI",
+      "relation": "SHIFTING_FROM",
+      "tail": "programs hand-written by domain experts"
+    },
+    {
+      "head": "U.S.",
+      "relation": "endangered species list",
+      "tail": "species"
+    },
+    {
+      "head": "International Union for Conservation",
+      "relation": "RedList",
+      "tail": "species"
+    },
+    {
+      "head": "Channel Islands National Park",
+      "relation": "location of",
+      "tail": "Anacapa Island"
+    },
+    {
+      "head": "Anacapa Island",
+      "relation": "example of",
+      "tail": "Ashy Storm-petrel"
+    },
+    {
+      "head": "Ashy Storm-petrel",
+      "relation": "scientific name",
+      "tail": "Oceanodroma homochroa"
+    },
+    {
+      "head": "Japan",
+      "relation": "location of",
+      "tail": "Bryans Shearwater"
+    },
+    {
+      "head": "Bryans Shearwater",
+      "relation": "scientific name",
+      "tail": "Puffinus bryani"
+    },
+    {
+      "head": "Queensland",
+      "relation": "is in",
+      "tail": "Australia"
+    },
+    {
+      "head": "Great Barrier Reef Marine Park",
+      "relation": "is in",
+      "tail": "Australia"
+    },
+    {
+      "head": "Island of Guam",
+      "relation": "locatedIn",
+      "tail": "Micronesia"
+    },
+    {
+      "head": "brown tree snake",
+      "relation": "scientificName",
+      "tail": "Boiga irregularis"
+    },
+    {
+      "head": "brown tree snake",
+      "relation": "nativeOf",
+      "tail": "Papua New Guinea"
+    },
+    {
+      "head": "U.S. military",
+      "relation": "introducedTo",
+      "tail": "Island of Guam"
+    },
+    {
+      "head": "U.S. Geological Survey",
+      "relation": "collaboratesWith",
+      "tail": "researchers"
+    },
+    {
+      "head": "U.S. Geological Survey",
+      "relation": "located in",
+      "tail": "Guam"
+    },
+    {
+      "head": "R. Costanza",
+      "relation": "author of",
+      "tail": "Changes in the global value of ecosystem services"
+    },
+    {
+      "head": "R. de Groot",
+      "relation": "author of",
+      "tail": "Changes in the global value of ecosystem services"
+    },
+    {
+      "head": "P. Sutton",
+      "relation": "author of",
+      "tail": "Changes in the global value of ecosystem services"
+    },
+    {
+      "head": "S. van der Ploeg",
+      "relation": "author of",
+      "tail": "Changes in the global value of ecosystem services"
+    },
+    {
+      "head": "S. J. Anderson",
+      "relation": "author of",
+      "tail": "Changes in the global value of ecosystem services"
+    },
+    {
+      "head": "I. Kubiszewski",
+      "relation": "author of",
+      "tail": "Changes in the global value of ecosystem services"
+    },
+    {
+      "head": "S. Farber",
+      "relation": "author of",
+      "tail": "Changes in the global value of ecosystem services"
+    },
+    {
+      "head": "R. K. Turner",
+      "relation": "author of",
+      "tail": "Changes in the global value of ecosystem services"
+    },
+    {
+      "head": "A. Balmford",
+      "relation": "author of",
+      "tail": "Economic reasons for conserving wild nature."
+    },
+    {
+      "head": "A. Bruner",
+      "relation": "author of",
+      "tail": "Economic reasons for conserving wild nature."
+    },
+    {
+      "head": "P. Cooper",
+      "relation": "author of",
+      "tail": "Economic reasons for conserving wild nature."
+    },
+    {
+      "head": "R. Costanza",
+      "relation": "author of",
+      "tail": "Economic reasons for conserving wild nature."
+    },
+    {
+      "head": "S. Farber",
+      "relation": "author of",
+      "tail": "Economic reasons for conserving wild nature."
+    },
+    {
+      "head": "R. E. Green",
+      "relation": "author of",
+      "tail": "Economic reasons for conserving wild nature."
+    },
+    {
+      "head": "M. Jenkins",
+      "relation": "author of",
+      "tail": "Economic reasons for conserving wild nature."
+    },
+    {
+      "head": "P. Jefferiss",
+      "relation": "author of",
+      "tail": "Economic reasons for conserving wild nature."
+    },
+    {
+      "head": "V . Jessamy",
+      "relation": "author of",
+      "tail": "Economic reasons for conserving wild nature."
+    },
+    {
+      "head": "J. Madden",
+      "relation": "author of",
+      "tail": "Economic reasons for conserving wild nature."
+    },
+    {
+      "head": "K. Munro",
+      "relation": "author of",
+      "tail": "Economic reasons for conserving wild nature."
+    },
+    {
+      "head": "N. Myers",
+      "relation": "author of",
+      "tail": "Economic reasons for conserving wild nature."
+    },
+    {
+      "head": "S. Naeem",
+      "relation": "author of",
+      "tail": "Economic reasons for conserving wild nature."
+    },
+    {
+      "head": "J. Paavola",
+      "relation": "author of",
+      "tail": "Economic reasons for conserving wild nature."
+    },
+    {
+      "head": "M. Rayment",
+      "relation": "author of",
+      "tail": "Economic reasons for conserving wild nature."
+    },
+    {
+      "head": "S. Rosendo",
+      "relation": "author of",
+      "tail": "Economic reasons for conserving wild nature."
+    },
+    {
+      "head": "J. Roughgarden",
+      "relation": "author of",
+      "tail": "Economic reasons for conserving wild nature."
+    },
+    {
+      "head": "K. Trumper",
+      "relation": "author of",
+      "tail": "Economic reasons for conserving wild nature."
+    },
+    {
+      "head": "R. K. Turner",
+      "relation": "author of",
+      "tail": "Economic reasons for conserving wild nature."
+    },
+    {
+      "head": "A. Waldron",
+      "relation": "author of",
+      "tail": "Targeting globa"
+    },
+    {
+      "head": "A. O. Mooers",
+      "relation": "author of",
+      "tail": "Targeting globa"
+    },
+    {
+      "head": "D. C. Miller",
+      "relation": "author of",
+      "tail": "Targeting globa"
+    },
+    {
+      "head": "N. Nibbelink",
+      "relation": "author of",
+      "tail": "Targeting globa"
+    },
+    {
+      "head": "D. Redding",
+      "relation": "author of",
+      "tail": "Targeting globa"
+    },
+    {
+      "head": "T. S. Kuhn",
+      "relation": "author of",
+      "tail": "Targeting globa"
+    },
+    {
+      "head": "A. Waldron",
+      "relation": "author_of",
+      "tail": "Targeting global conservation funding to limit immediate biodiversity declines"
+    },
+    {
+      "head": "A. O. Mooers",
+      "relation": "author_of",
+      "tail": "Targeting global conservation funding to limit immediate biodiversity declines"
+    },
+    {
+      "head": "D. C. Miller",
+      "relation": "author_of",
+      "tail": "Targeting global conservation funding to limit immediate biodiversity declines"
+    },
+    {
+      "head": "N. Nibbelink",
+      "relation": "author_of",
+      "tail": "Targeting global conservation funding to limit immediate biodiversity declines"
+    },
+    {
+      "head": "D. Redding",
+      "relation": "author_of",
+      "tail": "Targeting global conservation funding to limit immediate biodiversity declines"
+    },
+    {
+      "head": "T. S. Kuhn",
+      "relation": "author_of",
+      "tail": "Targeting global conservation funding to limit immediate biodiversity declines"
+    },
+    {
+      "head": "S. H. M. Butchart",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "M. Walpole",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "B. Collen",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "A. van Strien",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "J. P. W. Scharlemann",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "R. E. a Almond",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "J. E. M. Baillie",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "B. Bomhard",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "C. Brown",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "J. Bruno",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "K. E. Carpenter",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "G. M. Carr",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "J. Chanson",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "A. M. Chenery",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "J. Csirke",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "N. C. Davidson",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "F. Dentener",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "M. Foster",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "A. Galli",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "J. N. Galloway",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "P. Genovesi",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "R. D. Gregory",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "M. Hockings",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "V . Kapos",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "J.-F. Lamarque",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "F. Leverington",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "J. Loh",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "M. a McGeoch",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "L. McRae",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "A. Minasyan",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "M. Hern\u00e1ndez Morcillo",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "T. E. E. Oldfield",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "D. Pauly",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "S. Quader",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "C. Revenga",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "J. R. Sauer",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "B. Skolnik",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "D. Spear",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "D. Stanwell-Smith",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "S. N. Stuart",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "A. Symes",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "M. Tierney",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "T. D. Tyrrell",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "J.-C. Vi\u00e9",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "R. Watson",
+      "relation": "author_of",
+      "tail": "Global biodiversity: indicators of recent declines."
+    },
+    {
+      "head": "D. P. McCarthy",
+      "relation": "author_of",
+      "tail": "J. P. W."
+    },
+    {
+      "head": "P. F. Donald",
+      "relation": "author_of",
+      "tail": "J. P. W."
+    },
+    {
+      "head": "D. P. McCarthy",
+      "relation": "author of",
+      "tail": "Financial Costs of Meeting Global Biodiversity Conservation Targets: Current Spending and Unmet Needs"
+    },
+    {
+      "head": "P. F. Donald",
+      "relation": "author of",
+      "tail": "Financial Costs of Meeting Global Biodiversity Conservation Targets: Current Spending and Unmet Needs"
+    },
+    {
+      "head": "J. P. W. Scharlemann",
+      "relation": "author of",
+      "tail": "Financial Costs of Meeting Global Biodiversity Conservation Targets: Current Spending and Unmet Needs"
+    },
+    {
+      "head": "G. M. Buchanan",
+      "relation": "author of",
+      "tail": "Financial Costs of Meeting Global Biodiversity Conservation Targets: Current Spending and Unmet Needs"
+    },
+    {
+      "head": "A. Balmford",
+      "relation": "author of",
+      "tail": "Financial Costs of Meeting Global Biodiversity Conservation Targets: Current Spending and Unmet Needs"
+    },
+    {
+      "head": "J. M. H. Green",
+      "relation": "author of",
+      "tail": "Financial Costs of Meeting Global Biodiversity Conservation Targets: Current Spending and Unmet Needs"
+    },
+    {
+      "head": "L. a Bennun",
+      "relation": "author of",
+      "tail": "Financial Costs of Meeting Global Biodiversity Conservation Targets: Current Spending and Unmet Needs"
+    },
+    {
+      "head": "N. D. Burgess",
+      "relation": "author of",
+      "tail": "Financial Costs of Meeting Global Biodiversity Conservation Targets: Current Spending and Unmet Needs"
+    },
+    {
+      "head": "L. D. C. Fishpool",
+      "relation": "author of",
+      "tail": "Financial Costs of Meeting Global Biodiversity Conservation Targets: Current Spending and Unmet Needs"
+    },
+    {
+      "head": "S. T. Garnett",
+      "relation": "author of",
+      "tail": "Financial Costs of Meeting Global Biodiversity Conservation Targets: Current Spending and Unmet Needs"
+    },
+    {
+      "head": "D. L. Leonard",
+      "relation": "author of",
+      "tail": "Financial Costs of Meeting Global Biodiversity Conservation Targets: Current Spending and Unmet Needs"
+    },
+    {
+      "head": "R. F. Maloney",
+      "relation": "author of",
+      "tail": "Financial Costs of Meeting Global Biodiversity Conservation Targets: Current Spending and Unmet Needs"
+    },
+    {
+      "head": "P. Morling",
+      "relation": "author of",
+      "tail": "Financial Costs of Meeting Global Biodiversity Conservation Targets: Current Spending and Unmet Needs"
+    },
+    {
+      "head": "H. M. Schaefer",
+      "relation": "author of",
+      "tail": "Financial Costs of Meeting Global Biodiversity Conservation Targets: Current Spending and Unmet Needs"
+    },
+    {
+      "head": "A. Symes",
+      "relation": "author of",
+      "tail": "Financial Costs of Meeting Global Biodiversity Conservation Targets: Current Spending and Unmet Needs"
+    },
+    {
+      "head": "D. a Wiedenfeld",
+      "relation": "author of",
+      "tail": "Financial Costs of Meeting Global Biodiversity Conservation Targets: Current Spending and Unmet Needs"
+    },
+    {
+      "head": "S. H. M. Butchart",
+      "relation": "author of",
+      "tail": "Financial Costs of Meeting Global Biodiversity Conservation Targets: Current Spending and Unmet Needs"
+    },
+    {
+      "head": "W. J. Sutherland",
+      "relation": "author of",
+      "tail": "The need for evidence-based conservation"
+    },
+    {
+      "head": "A. S. Pullin",
+      "relation": "author of",
+      "tail": "The need for evidence-based conservation"
+    },
+    {
+      "head": "P. M. Dolman",
+      "relation": "author of",
+      "tail": "The need for evidence-based conservation"
+    },
+    {
+      "head": "T. M. Knight",
+      "relation": "author of",
+      "tail": "The need for evidence-based conservation"
+    },
+    {
+      "head": "A. S. Pullin",
+      "relation": "author of",
+      "tail": "Doing more good than harm - Building an evidence-base for conservation and environmental management"
+    },
+    {
+      "head": "T. M. Knight",
+      "relation": "author of",
+      "tail": "Doing more good than harm - Building an evidence-base for conservation and environmental management"
+    },
+    {
+      "head": "M. Keene",
+      "relation": "author of",
+      "tail": "Realizing an effectiveness revolution in environmental management"
+    },
+    {
+      "head": "A. S. Pullin",
+      "relation": "author of",
+      "tail": "Realizing an effectiveness revolution in environmental management"
+    },
+    {
+      "head": "J. Environ. Manage.",
+      "relation": "published_in",
+      "tail": "veness revolution in environmental management"
+    },
+    {
+      "head": "N. G. Yoccoz",
+      "relation": "author_of",
+      "tail": "Monitoring of biological diversity in space and time"
+    },
+    {
+      "head": "J. D. Nichols",
+      "relation": "author_of",
+      "tail": "Monitoring of biological diversity in space and time"
+    },
+    {
+      "head": "T. Boulinier",
+      "relation": "author_of",
+      "tail": "Monitoring of biological diversity in space and time"
+    },
+    {
+      "head": "Trends Ecol. Evol.",
+      "relation": "published_in",
+      "tail": "Monitoring of biological diversity in space and time"
+    },
+    {
+      "head": "W. L. Thompson",
+      "relation": "author_of",
+      "tail": "Sampling rare or elusive species: concepts, designs, and techniques for estimating population parameters"
+    },
+    {
+      "head": "C. Wood",
+      "relation": "author_of",
+      "tail": "Auditing the Assessment of the Environmental Impacts of Planning Projects"
+    },
+    {
+      "head": "B. Dipper",
+      "relation": "author_of",
+      "tail": "Auditing the Assessment of the Environmental Impacts of Planning Projects"
+    },
+    {
+      "head": "C. Jones",
+      "relation": "author_of",
+      "tail": "Auditing the Assessment of the Environmental Impacts of Planning Projects"
+    },
+    {
+      "head": "J. Environ. Plan. Manag.",
+      "relation": "published_in",
+      "tail": "Auditing the Assessment of the Environmental Impacts of Planning Projects"
+    },
+    {
+      "head": "D. B. Lindenmayer",
+      "relation": "author_of",
+      "tail": "Counting the books while the library burns: Why conservation monitoring programs need a plan for action"
+    },
+    {
+      "head": "M. P. Piggott",
+      "relation": "author_of",
+      "tail": "Counting the books while the library burns: Why conservation monitoring programs need a plan for action"
+    },
+    {
+      "head": "B. a. Wintle",
+      "relation": "author_of",
+      "tail": "Counting the books while the library burns: Why conservation monitoring programs need a plan for action"
+    },
+    {
+      "head": "Front. Ecol. Environ.",
+      "relation": "published_in",
+      "tail": "Counting the books while the library burns: Why conservation monitoring programs need a plan for action"
+    },
+    {
+      "head": "C. J. Legg",
+      "relation": "author_of",
+      "tail": "Why most conservation monitoring is, but need not be, a waste of time"
+    },
+    {
+      "head": "L. Nagy",
+      "relation": "author_of",
+      "tail": "Why most conservation monitoring is, but need not be, a waste of time"
+    },
+    {
+      "head": "J. Environ. Manage.",
+      "relation": "published_in",
+      "tail": "Why most conservation monitoring is, but need not be, a waste of time"
+    },
+    {
+      "head": "J. B. Theodore R. Simons",
+      "relation": "author_of",
+      "tail": "Kenneth H."
+    },
+    {
+      "head": "J. Environ. Manage.",
+      "relation": "VOLUME_ISSUE_PAGE",
+      "tail": "78"
+    },
+    {
+      "head": "J. Environ. Manage.",
+      "relation": "VOLUME_ISSUE_PAGE",
+      "tail": "2"
+    },
+    {
+      "head": "J. Environ. Manage.",
+      "relation": "VOLUME_ISSUE_PAGE",
+      "tail": "194\u2013199"
+    },
+    {
+      "head": "J. B. Theodore R. Simons",
+      "relation": "COAUTHOR",
+      "tail": "Kenneth H. Pollock"
+    },
+    {
+      "head": "J. B. Theodore R. Simons",
+      "relation": "COAUTHOR",
+      "tail": "John M. Wettroth"
+    },
+    {
+      "head": "J. B. Theodore R. Simons",
+      "relation": "COAUTHOR",
+      "tail": "Mathew W. Alldredge"
+    },
+    {
+      "head": "J. B. Theodore R. Simons",
+      "relation": "COAUTHOR",
+      "tail": "Krishna Pacifici"
+    },
+    {
+      "head": "B. T. McClintock",
+      "relation": "COAUTHOR",
+      "tail": "L. L. Bailey"
+    },
+    {
+      "head": "B. T. McClintock",
+      "relation": "COAUTHOR",
+      "tail": "K. H. Pollock"
+    },
+    {
+      "head": "B. T. McClintock",
+      "relation": "COAUTHOR",
+      "tail": "T. R. Simons"
+    },
+    {
+      "head": "J. Wildl. Manage.",
+      "relation": "VOLUME_ISSUE_PAGE",
+      "tail": "74"
+    },
+    {
+      "head": "J. Wildl. Manage.",
+      "relation": "VOLUME_ISSUE_PAGE",
+      "tail": "8"
+    },
+    {
+      "head": "J. Wildl. Manage.",
+      "relation": "VOLUME_ISSUE_PAGE",
+      "tail": "1882\u20131893"
+    },
+    {
+      "head": "E. S. Bridge",
+      "relation": "COAUTHOR",
+      "tail": "K. Thorup"
+    },
+    {
+      "head": "E. S. Bridge",
+      "relation": "COAUTHOR",
+      "tail": "M. S. Bowlin"
+    },
+    {
+      "head": "E. S. Bridge",
+      "relation": "COAUTHOR",
+      "tail": "P. B. Chilson"
+    },
+    {
+      "head": "E. S. Bridge",
+      "relation": "COAUTHOR",
+      "tail": "R. H. Diehl"
+    },
+    {
+      "head": "E. S. Bridge",
+      "relation": "COAUTHOR",
+      "tail": "R. W. Fl\u00e9ron"
+    },
+    {
+      "head": "E. S. Bridge",
+      "relation": "COAUTHOR",
+      "tail": "P. Hartl"
+    },
+    {
+      "head": "E. S. Bridge",
+      "relation": "COAUTHOR",
+      "tail": "R. Kays"
+    },
+    {
+      "head": "E. S. Bridge",
+      "relation": "COAUTHOR",
+      "tail": "J. F. Kelly"
+    },
+    {
+      "head": "E. S. Bridge",
+      "relation": "COAUTHOR",
+      "tail": "W. D. Robinson"
+    },
+    {
+      "head": "E. S. Bridge",
+      "relation": "COAUTHOR",
+      "tail": "M. Wikelski"
+    },
+    {
+      "head": "Am. Inst. Biol. Sci.",
+      "relation": "VOLUME_ISSUE_PAGE",
+      "tail": "61"
+    },
+    {
+      "head": "Am. Inst. Biol. Sci.",
+      "relation": "VOLUME_ISSUE_PAGE",
+      "tail": "9"
+    },
+    {
+      "head": "Am. Inst. Biol. Sci.",
+      "relation": "VOLUME_ISSUE_PAGE",
+      "tail": "689\u2013698"
+    },
+    {
+      "head": "S. M. Tomkiewicz",
+      "relation": "COAUTHOR",
+      "tail": "M. R. Fuller"
+    },
+    {
+      "head": "S. M. Tomkiewicz",
+      "relation": "COAUTHOR",
+      "tail": "J. G. Kie"
+    },
+    {
+      "head": "S. M. Tomkiewicz",
+      "relation": "COAUTHOR",
+      "tail": "K. K. Bates"
+    },
+    {
+      "head": "R. Soc. of Lond.",
+      "relation": "part of",
+      "tail": "Philos. Trans."
+    },
+    {
+      "head": "Cowrie Ltd.",
+      "relation": "part of",
+      "tail": "Br. Trust Ornithol."
+    },
+    {
+      "head": "Lect. Notes Artif. Intell.",
+      "relation": "part of",
+      "tail": "Lect. Notes Comput. Sci."
+    },
+    {
+      "head": "Lect. Notes Bioinformatics",
+      "relation": "part of",
+      "tail": "Lect. Notes Comput. Sci."
+    },
+    {
+      "head": "C. Vermeulen",
+      "relation": "author_of",
+      "tail": "PLoS One"
+    },
+    {
+      "head": "P. Lejeune",
+      "relation": "author_of",
+      "tail": "PLoS One"
+    },
+    {
+      "head": "J. Lisein",
+      "relation": "author_of",
+      "tail": "PLoS One"
+    },
+    {
+      "head": "P. Sawadogo",
+      "relation": "author_of",
+      "tail": "PLoS One"
+    },
+    {
+      "head": "P. Bouch\u00e9",
+      "relation": "author_of",
+      "tail": "PLoS One"
+    },
+    {
+      "head": "R. Schiffman",
+      "relation": "author_of",
+      "tail": "Science"
+    },
+    {
+      "head": "L. E. Ogden",
+      "relation": "author_of",
+      "tail": "Bioscience"
+    },
+    {
+      "head": "F. Mattern",
+      "relation": "author_of",
+      "tail": "From the internet of computers to the internet of things"
+    },
+    {
+      "head": "C. Floerkemeier",
+      "relation": "author_of",
+      "tail": "From the internet of computers to the internet of things"
+    },
+    {
+      "head": "M. W. McKown",
+      "relation": "author_of",
+      "tail": "J. Acoust. Soc. Am."
+    },
+    {
+      "head": "M. Lukac",
+      "relation": "author_of",
+      "tail": "J. Acoust. Soc. Am."
+    },
+    {
+      "head": "A. Borker",
+      "relation": "author_of",
+      "tail": "J. Acoust. Soc. Am."
+    },
+    {
+      "head": "B. Tershy",
+      "relation": "author_of",
+      "tail": "J. Acoust. Soc. Am."
+    },
+    {
+      "head": "D. Croll",
+      "relation": "author_of",
+      "tail": "J. Acoust. Soc. Am."
+    },
+    {
+      "head": "R. Faludi",
+      "relation": "author_of",
+      "tail": "Building Wireless Sensor Networks"
+    },
+    {
+      "head": "O\u2019Reilly Media, Inc.",
+      "relation": "publisher_of",
+      "tail": "Building Wireless Sensor Networks"
+    },
+    {
+      "head": "M. Zaharia",
+      "relation": "author_of",
+      "tail": "Spark"
+    },
+    {
+      "head": "M. Chowdhury",
+      "relation": "author_of",
+      "tail": "Spark"
+    },
+    {
+      "head": "M. J. Franklin",
+      "relation": "author_of",
+      "tail": "Spark"
+    },
+    {
+      "head": "S. Shenker",
+      "relation": "author_of",
+      "tail": "Spark"
+    },
+    {
+      "head": "I. Stoica",
+      "relation": "author_of",
+      "tail": "Spark"
+    },
+    {
+      "head": "ria",
+      "relation": "author",
+      "tail": "Spark"
+    },
+    {
+      "head": "M. Chowdhury",
+      "relation": "author",
+      "tail": "Spark"
+    },
+    {
+      "head": "M. J. Franklin",
+      "relation": "author",
+      "tail": "Spark"
+    },
+    {
+      "head": "S. Shenker",
+      "relation": "author",
+      "tail": "Spark"
+    },
+    {
+      "head": "I. Stoica",
+      "relation": "author",
+      "tail": "Spark"
+    },
+    {
+      "head": "L. Van Der Maaten",
+      "relation": "author",
+      "tail": "Visualizing Data using t-SNE"
+    },
+    {
+      "head": "G. Hinton",
+      "relation": "author",
+      "tail": "Visualizing Data using t-SNE"
+    },
+    {
+      "head": "Y. LeCun",
+      "relation": "author",
+      "tail": "Deep learning"
+    },
+    {
+      "head": "Y. Bengio",
+      "relation": "author",
+      "tail": "Deep learning"
+    },
+    {
+      "head": "G. Hinton",
+      "relation": "author",
+      "tail": "Deep learning"
+    },
+    {
+      "head": "O. Russakovsky",
+      "relation": "author",
+      "tail": "Trends and Topics in Computer Vision"
+    },
+    {
+      "head": "L. Fei-Fei",
+      "relation": "author",
+      "tail": "Trends and Topics in Computer Vision"
+    },
+    {
+      "head": "Springer Berlin Heidelberg",
+      "relation": "publisher",
+      "tail": "Trends and Topics in Computer Vision"
+    },
+    {
+      "head": "D. Ciresan",
+      "relation": "author",
+      "tail": "Transfer Learning for Latin and Chinese Characters with Deep Neural Networks"
+    },
+    {
+      "head": "U. Meier",
+      "relation": "author",
+      "tail": "Transfer Learning for Latin and Chinese Characters with Deep Neural Networks"
+    },
+    {
+      "head": "J. Schmidhuber",
+      "relation": "author",
+      "tail": "Transfer Learning for Latin and Chinese Characters with Deep Neural Networks"
+    },
+    {
+      "head": "A. Karpathy",
+      "relation": "author",
+      "tail": "Deep visual-semantic alignments for generating image descriptions"
+    },
+    {
+      "head": "L. Fei-Fei",
+      "relation": "author",
+      "tail": "Deep visual-semantic alignments for generating image descriptions"
+    },
+    {
+      "head": "M. W. McKown",
+      "relation": "author",
+      "tail": "Passive acoustic surveys for Ashy Storm-Petrel vocal activity on Anacapa Island"
+    },
+    {
+      "head": "B. Tershy",
+      "relation": "author",
+      "tail": "Passive acoustic surveys for Ashy Storm-Petrel vocal activity on Anacapa Island"
+    },
+    {
+      "head": "D. Croll",
+      "relation": "author",
+      "tail": "Passive acoustic surveys for Ashy Storm-Petrel vocal activity on Anacapa Island"
+    },
+    {
+      "head": "D. Croll",
+      "relation": "affiliated with",
+      "tail": "Conservation Metrics, Inc."
+    },
+    {
+      "head": "K. Kawakami",
+      "relation": "co-author of",
+      "tail": "M. Eda"
+    },
+    {
+      "head": "K. Kawakami",
+      "relation": "co-author of",
+      "tail": "K. Horikoshi"
+    },
+    {
+      "head": "K. Kawakami",
+      "relation": "co-author of",
+      "tail": "H. Suzuki"
+    },
+    {
+      "head": "J. Engbring",
+      "relation": "co-author of",
+      "tail": "T. H. Fritts"
+    },
+    {
+      "head": "G. H. Rodda",
+      "relation": "co-author of",
+      "tail": "T. H. Fritts"
+    },
+    {
+      "head": "G. H. Rodda",
+      "relation": "co-author of",
+      "tail": "P. J. Conry"
+    },
+    {
+      "head": "University of Hawai\u2019i Press",
+      "relation": "publisher of",
+      "tail": "Pacific Science"
+    }
+  ]
+}

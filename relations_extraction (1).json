@@ -1,0 +1,664 @@
+{
+  "relations": [
+    {
+      "head": "David J. Klein",
+      "relation": "affiliated_with",
+      "tail": "Conservation Metrics, Inc."
+    },
+    {
+      "head": "Matthew W. McKown",
+      "relation": "affiliated_with",
+      "tail": "Conservation Metrics, Inc."
+    },
+    {
+      "head": "Bernie R. Tershy",
+      "relation": "affiliated_with",
+      "tail": "Conservation Metrics, Inc."
+    },
+    {
+      "head": "Conservation Metrics, Inc.",
+      "relation": "located_in",
+      "tail": "Santa Cruz, CA 95060"
+    },
+    {
+      "head": "deep learning",
+      "relation": "used_by",
+      "tail": "system"
+    },
+    {
+      "head": "system",
+      "relation": "monitors",
+      "tail": "endangered species"
+    },
+    {
+      "head": "system",
+      "relation": "monitors",
+      "tail": "ecosystems"
+    },
+    {
+      "head": "microphones",
+      "relation": "component_of",
+      "tail": "system"
+    },
+    {
+      "head": "cameras",
+      "relation": "component_of",
+      "tail": "system"
+    },
+    {
+      "head": "nature",
+      "relation": "component_of",
+      "tail": "Ecosystem services"
+    },
+    {
+      "head": "Convention for Global Biodiversity",
+      "relation": "affiliated_with",
+      "tail": "UN"
+    },
+    {
+      "head": "conservation",
+      "relation": "produces",
+      "tail": "conservation outcomes"
+    },
+    {
+      "head": "wildlife monitoring techniques",
+      "relation": "component_of",
+      "tail": "conservation measures program"
+    },
+    {
+      "head": "storms",
+      "relation": "component_of",
+      "tail": "natural systems"
+    },
+    {
+      "head": "droughts",
+      "relation": "component_of",
+      "tail": "natural systems"
+    },
+    {
+      "head": "diseases",
+      "relation": "component_of",
+      "tail": "natural systems"
+    },
+    {
+      "head": "biological surveys",
+      "relation": "part_of",
+      "tail": "monitoring programs"
+    },
+    {
+      "head": "conservation actions",
+      "relation": "part_of",
+      "tail": "monitoring programs"
+    },
+    {
+      "head": "conservation actions",
+      "relation": "measured_by",
+      "tail": "statistical power"
+    },
+    {
+      "head": "conservation monitoring methods",
+      "relation": "improve",
+      "tail": "inference"
+    },
+    {
+      "head": "conservation monitoring methods",
+      "relation": "drive",
+      "tail": "adaptive management"
+    },
+    {
+      "head": "adaptive management",
+      "relation": "of",
+      "tail": "conservation projects"
+    },
+    {
+      "head": "biodiversity monitoring",
+      "relation": "involves",
+      "tail": "sending observers"
+    },
+    {
+      "head": "survey sites",
+      "relation": "to_collect",
+      "tail": "data"
+    },
+    {
+      "head": "traditional surveys",
+      "relation": "to_meet",
+      "tail": "global conservation"
+    },
+    {
+      "head": "human observers",
+      "relation": "lead_to",
+      "tail": "negative ecological impacts"
+    },
+    {
+      "head": "sensors",
+      "relation": "component_of",
+      "tail": "monitoring"
+    },
+    {
+      "head": "microphones",
+      "relation": "part_of",
+      "tail": "sensors"
+    },
+    {
+      "head": "cameras",
+      "relation": "part_of",
+      "tail": "sensors"
+    },
+    {
+      "head": "accelerometers",
+      "relation": "part_of",
+      "tail": "sensors"
+    },
+    {
+      "head": "visual",
+      "relation": "type_of",
+      "tail": "cameras"
+    },
+    {
+      "head": "thermal",
+      "relation": "type_of",
+      "tail": "cameras"
+    },
+    {
+      "head": "IR",
+      "relation": "type_of",
+      "tail": "cameras"
+    },
+    {
+      "head": "hyperspectral",
+      "relation": "type_of",
+      "tail": "cameras"
+    },
+    {
+      "head": "Bloomberg Data for Good Exchange Conference",
+      "relation": "located_in",
+      "tail": "New York City"
+    },
+    {
+      "head": "battery technology",
+      "relation": "component_of",
+      "tail": "technology"
+    },
+    {
+      "head": "global positioning systems",
+      "relation": "component_of",
+      "tail": "technology"
+    },
+    {
+      "head": "cellular networks",
+      "relation": "component_of",
+      "tail": "technology"
+    },
+    {
+      "head": "satellites",
+      "relation": "component_of",
+      "tail": "visual sensor networks"
+    },
+    {
+      "head": "airplanes",
+      "relation": "component_of",
+      "tail": "visual sensor networks"
+    },
+    {
+      "head": "wave gliders",
+      "relation": "component_of",
+      "tail": "visual sensor networks"
+    },
+    {
+      "head": "un-manned aerial vehicles",
+      "relation": "component_of",
+      "tail": "visual sensor networks"
+    },
+    {
+      "head": "deep learning",
+      "relation": "used_for",
+      "tail": "biodiversity"
+    },
+    {
+      "head": "sensor data",
+      "relation": "measured_by",
+      "tail": "sensors"
+    },
+    {
+      "head": "audio",
+      "relation": "part_of",
+      "tail": "datasets"
+    },
+    {
+      "head": "image",
+      "relation": "part_of",
+      "tail": "datasets"
+    },
+    {
+      "head": "temperature",
+      "relation": "part_of",
+      "tail": "environmental sensor data"
+    },
+    {
+      "head": "air quality",
+      "relation": "part_of",
+      "tail": "environmental sensor data"
+    },
+    {
+      "head": "bird vocalizations",
+      "relation": "recorded_in",
+      "tail": "audio"
+    },
+    {
+      "head": "site",
+      "relation": "part_of",
+      "tail": "monitoring project"
+    },
+    {
+      "head": "region",
+      "relation": "part_of",
+      "tail": "monitoring project"
+    },
+    {
+      "head": "cloud computing and storage",
+      "relation": "component_of",
+      "tail": "Internet of Things"
+    },
+    {
+      "head": "Internet of Things",
+      "relation": "depends_on",
+      "tail": "cloud computing and storage"
+    },
+    {
+      "head": "mobile phones",
+      "relation": "used_for",
+      "tail": "gather sensor data"
+    },
+    {
+      "head": "sensors",
+      "relation": "component_of",
+      "tail": "communication network"
+    },
+    {
+      "head": "data",
+      "relation": "flows_to",
+      "tail": "base stations"
+    },
+    {
+      "head": "base stations",
+      "relation": "transmits_via",
+      "tail": "internet"
+    },
+    {
+      "head": "base stations",
+      "relation": "transmits_via",
+      "tail": "satellite"
+    },
+    {
+      "head": "base stations",
+      "relation": "transmits_via",
+      "tail": "microwave"
+    },
+    {
+      "head": "base stations",
+      "relation": "transmits_via",
+      "tail": "cell networks"
+    },
+    {
+      "head": "data",
+      "relation": "stored_at",
+      "tail": "data center"
+    },
+    {
+      "head": "data center",
+      "relation": "uses",
+      "tail": "Spark"
+    },
+    {
+      "head": "Amazon Web Services",
+      "relation": "is_a",
+      "tail": "third-party data centers"
+    },
+    {
+      "head": "deep learning",
+      "relation": "component_of",
+      "tail": "machine learning"
+    },
+    {
+      "head": "DL models",
+      "relation": "produced_by",
+      "tail": "labeled datasets"
+    },
+    {
+      "head": "DL models",
+      "relation": "trained_to",
+      "tail": "classify events of interest"
+    },
+    {
+      "head": "data",
+      "relation": "according_to",
+      "tail": "date ranges"
+    },
+    {
+      "head": "data",
+      "relation": "according_to",
+      "tail": "time of day"
+    },
+    {
+      "head": "data",
+      "relation": "according_to",
+      "tail": "site location"
+    },
+    {
+      "head": "audio signals",
+      "relation": "frequency_ranges",
+      "tail": "data"
+    },
+    {
+      "head": "DL models",
+      "relation": "used_for",
+      "tail": "new species"
+    },
+    {
+      "head": "analysts",
+      "relation": "uses",
+      "tail": "exploration tools"
+    },
+    {
+      "head": "sensor data",
+      "relation": "analyzed_by",
+      "tail": "analysts"
+    },
+    {
+      "head": "exploration tools",
+      "relation": "visualizes",
+      "tail": "data"
+    },
+    {
+      "head": "t-SNE",
+      "relation": "used_for",
+      "tail": "data clustering"
+    },
+    {
+      "head": "t-SNE",
+      "relation": "used_for",
+      "tail": "view and select data samples"
+    },
+    {
+      "head": "feature vector",
+      "relation": "is",
+      "tail": "384-dimensional"
+    },
+    {
+      "head": "DL models",
+      "relation": "classify",
+      "tail": "species"
+    },
+    {
+      "head": "DL models",
+      "relation": "classify",
+      "tail": "events"
+    },
+    {
+      "head": "keyboard shortcuts",
+      "relation": "uses",
+      "tail": "panels"
+    },
+    {
+      "head": "spectrograms",
+      "relation": "represents",
+      "tail": "audio"
+    },
+    {
+      "head": "Artificial Intelligence",
+      "relation": "abbreviation_of",
+      "tail": "AI"
+    },
+    {
+      "head": "ML",
+      "relation": "component_of",
+      "tail": "Artificial Intelligence"
+    },
+    {
+      "head": "AI",
+      "relation": "uses",
+      "tail": "data"
+    },
+    {
+      "head": "ML",
+      "relation": "uses",
+      "tail": "data"
+    },
+    {
+      "head": "sensor networks",
+      "relation": "produces",
+      "tail": "petabytes"
+    },
+    {
+      "head": "sensor networks",
+      "relation": "produces",
+      "tail": "exabytes"
+    },
+    {
+      "head": "analysts",
+      "relation": "uses",
+      "tail": "keyboard shortcuts"
+    },
+    {
+      "head": "Deep Learning",
+      "relation": "abbreviation",
+      "tail": "DL"
+    },
+    {
+      "head": "DL",
+      "relation": "subfield_of",
+      "tail": "ML"
+    },
+    {
+      "head": "DL",
+      "relation": "grew_out_of",
+      "tail": "representation learning"
+    },
+    {
+      "head": "DL",
+      "relation": "grew_out_of",
+      "tail": "neural networks"
+    },
+    {
+      "head": "DL",
+      "relation": "grew_out_of",
+      "tail": "computational neuroscience"
+    },
+    {
+      "head": "edges",
+      "relation": "component_of",
+      "tail": "image"
+    },
+    {
+      "head": "gradients",
+      "relation": "component_of",
+      "tail": "image"
+    },
+    {
+      "head": "corners",
+      "relation": "component_of",
+      "tail": "image"
+    },
+    {
+      "head": "textures",
+      "relation": "component_of",
+      "tail": "image"
+    },
+    {
+      "head": "eyes",
+      "relation": "component_of",
+      "tail": "face recognition"
+    },
+    {
+      "head": "noses",
+      "relation": "component_of",
+      "tail": "face recognition"
+    },
+    {
+      "head": "visual object recognition",
+      "relation": "application_of",
+      "tail": "DL"
+    },
+    {
+      "head": "speech recognition",
+      "relation": "application_of",
+      "tail": "DL"
+    },
+    {
+      "head": "genomics",
+      "relation": "application_of",
+      "tail": "DL"
+    },
+    {
+      "head": "visual object recognition",
+      "relation": "application_of",
+      "tail": "AI algorithm"
+    },
+    {
+      "head": "speech recognition",
+      "relation": "application_of",
+      "tail": "AI algorithm"
+    },
+    {
+      "head": "genomics",
+      "relation": "application_of",
+      "tail": "AI algorithm"
+    },
+    {
+      "head": "unconstrained image recognition",
+      "relation": "example_of",
+      "tail": "difficult problems"
+    },
+    {
+      "head": "DL algorithm",
+      "relation": "instance_of",
+      "tail": "ML algorithm"
+    },
+    {
+      "head": "biodiversity monitoring application",
+      "relation": "candidate_for",
+      "tail": "DL"
+    },
+    {
+      "head": "deep convolutional neural networks",
+      "relation": "component_of",
+      "tail": "DL"
+    },
+    {
+      "head": "deep feed forward neural networks",
+      "relation": "component_of",
+      "tail": "DL"
+    },
+    {
+      "head": "CNNs",
+      "relation": "part_of",
+      "tail": "deep convolutional neural networks"
+    },
+    {
+      "head": "DNNs",
+      "relation": "part_of",
+      "tail": "deep feed forward neural networks"
+    },
+    {
+      "head": "DL algorithms",
+      "relation": "applied_to",
+      "tail": "biodiversity monitoring"
+    },
+    {
+      "head": "models",
+      "relation": "trained_for",
+      "tail": "species"
+    },
+    {
+      "head": "species",
+      "relation": "related_to",
+      "tail": "species"
+    },
+    {
+      "head": "audio",
+      "relation": "component_of",
+      "tail": "sensors"
+    },
+    {
+      "head": "image",
+      "relation": "component_of",
+      "tail": "sensors"
+    },
+    {
+      "head": "U.S.",
+      "relation": "part_of",
+      "tail": "endangered species list"
+    },
+    {
+      "head": "International Union for Conservation",
+      "relation": "part_of",
+      "tail": "RedList"
+    },
+    {
+      "head": "Channel Islands National Park",
+      "relation": "located_in",
+      "tail": "Anacapa Island"
+    },
+    {
+      "head": "Ashy Storm-petrel",
+      "relation": "scientific_name",
+      "tail": "Oceanodroma homochroa"
+    },
+    {
+      "head": "Bryans Shearwater",
+      "relation": "scientific_name",
+      "tail": "Puffinus bryani"
+    },
+    {
+      "head": "Bryans Shearwater",
+      "relation": "member_of",
+      "tail": "Puffinus"
+    },
+    {
+      "head": "Queensland",
+      "relation": "located_in",
+      "tail": "Australia"
+    },
+    {
+      "head": "Great Barrier Reef Marine Park",
+      "relation": "located_in",
+      "tail": "Australia"
+    },
+    {
+      "head": "California Coastal National Monument",
+      "relation": "located_in",
+      "tail": "U.S."
+    },
+    {
+      "head": "Island of Guam",
+      "relation": "located_in",
+      "tail": "Micronesia"
+    },
+    {
+      "head": "brown tree snake",
+      "relation": "scientific_name",
+      "tail": "Boiga irregularis"
+    },
+    {
+      "head": "brown tree snake",
+      "relation": "native_to",
+      "tail": "Papua New Guinea"
+    },
+    {
+      "head": "brown tree snake",
+      "relation": "introduced_by",
+      "tail": "U.S. military"
+    },
+    {
+      "head": "U.S. Geological Survey",
+      "relation": "located_in",
+      "tail": "Guam"
+    },
+    {
+      "head": "summer of 2012",
+      "relation": "precedes",
+      "tail": "summer of 2014"
+    }
+  ]
+}
