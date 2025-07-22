@@ -27,3 +27,5 @@ Results
 1. Benchmarked Against: REBEL, iText2KG, AutoKG, and others
 2. Best Performance: RAG-based Gemini model scored highest (7.63/10) across benchmarks
 3. Improvements: Better contextual coverage, non-redundant relations, and deeper multi-hop insights
+
+Kindly refer to the Final Report
